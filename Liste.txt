@@ -1,0 +1,6 @@
+Aufgabenliste
+
+Melek: Programmiert die Klasse Task 
+Dustin: Programmiert die Klasse TaskManager
+David: Erstellt ein neues Repository und lädt seine Kollegen ein.
+Erstellt die Programm Klasse und 
