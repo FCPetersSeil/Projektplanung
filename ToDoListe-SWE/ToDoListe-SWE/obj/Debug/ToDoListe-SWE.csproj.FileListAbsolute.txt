@@ -1,0 +1,7 @@
+F:\C#\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.csproj.AssemblyReference.cache
+F:\C#\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.csproj.CoreCompileInputs.cache
+F:\C#\ToDoListe-SWE\ToDoListe-SWE\bin\Debug\ToDoListe-SWE.exe.config
+F:\C#\ToDoListe-SWE\ToDoListe-SWE\bin\Debug\ToDoListe-SWE.exe
+F:\C#\ToDoListe-SWE\ToDoListe-SWE\bin\Debug\ToDoListe-SWE.pdb
+F:\C#\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.exe
+F:\C#\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.pdb
