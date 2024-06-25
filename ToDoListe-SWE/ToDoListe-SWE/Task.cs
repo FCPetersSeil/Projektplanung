@@ -13,20 +13,24 @@ namespace ToDoListe_SWE
         String description;
         bool completed = false;
 
+        // Erstellt ein task objekt
         public Task(String x) { 
             Description = x;
             i++;
             ID = i;
         }
 
+        // getter/setter für unser id
         public int ID { 
             get { return id; } set { id = value; }
         }
 
+        // getter/setter für unser description
         public String Description { 
             get { return description; } set {  description = value; }
         }
 
+        // getter/setter für unser completed
         public bool Completed { 
             get { return completed; } set {  completed = value; }
         }
