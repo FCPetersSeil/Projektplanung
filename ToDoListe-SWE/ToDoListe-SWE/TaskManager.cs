@@ -10,12 +10,17 @@ namespace ToDoListe_SWE
     {
         Task[] liste = new Task[10]; 
 
-        // Erstellt ein TaskManager Objekt
+        /// <summary>
+        /// Erstellt ein TaskManager Objekt
+        /// </summary>
         public TaskManager() { 
         
         }
 
-        // Lässt uns neue Task Objekte hinzufügen
+        /// <summary>
+        /// Lässt uns neue Task Objekte hinzufügen
+        /// </summary>
+        /// <param name="x"></param>
         public void Hinzufügen(String x) {
             for (int i = 0; i < liste.Length; i++) {
                 if (Liste[i] == null) {
@@ -25,7 +30,9 @@ namespace ToDoListe_SWE
             }
         }
 
-        // Gibt das liste array aus
+        /// <summary>
+        /// Gibt das liste array aus
+        /// </summary>
         public void Anzeigen() { 
             Console.Clear();
             for (int i = 0;i < liste.Length; i++) {
@@ -37,7 +44,11 @@ namespace ToDoListe_SWE
             }
         }
 
-        // lässt uns Task als erledigt makieren
+        /// <summary>
+        /// lässt uns Task als erledigt makieren
+        /// </summary>
+        /// <param name="x"></param>
+        /// <returns></returns>
         public Task Markieren(int x) { 
             for (int i = 0; i < Liste.Length ; i++ ) {
                 if (x.Equals(Liste[i].ID))
@@ -49,7 +60,9 @@ namespace ToDoListe_SWE
             return null;
         }
 
-        // getter/setter für unser liste array
+        /// <summary>
+        /// getter/setter für unser liste array
+        /// </summary>
         public Task[] Liste { 
             get { return liste; } set { liste = value; }
         }

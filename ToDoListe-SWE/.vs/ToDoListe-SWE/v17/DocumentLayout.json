@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\stud\\SWE_Projekt_GetCode\\Projektplanung\\ToDoListe-SWE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB90F9C5-E03E-454C-B4C8-273FE7CB2990}|ToDoListe-SWE\\ToDoListe-SWE.csproj|c:\\users\\stud\\swe_projekt_getcode\\projektplanung\\todoliste-swe\\todoliste-swe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DB90F9C5-E03E-454C-B4C8-273FE7CB2990}|ToDoListe-SWE\\ToDoListe-SWE.csproj|solutionrelative:todoliste-swe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DB90F9C5-E03E-454C-B4C8-273FE7CB2990}|ToDoListe-SWE\\ToDoListe-SWE.csproj|C:\\Users\\stud\\SWE_Projekt_GetCode\\Projektplanung\\ToDoListe-SWE\\todoliste-swe\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB90F9C5-E03E-454C-B4C8-273FE7CB2990}|ToDoListe-SWE\\ToDoListe-SWE.csproj|solutionrelative:todoliste-swe\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DB90F9C5-E03E-454C-B4C8-273FE7CB2990}|ToDoListe-SWE\\ToDoListe-SWE.csproj|C:\\Users\\stud\\SWE_Projekt_GetCode\\Projektplanung\\ToDoListe-SWE\\todoliste-swe\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB90F9C5-E03E-454C-B4C8-273FE7CB2990}|ToDoListe-SWE\\ToDoListe-SWE.csproj|solutionrelative:todoliste-swe\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB90F9C5-E03E-454C-B4C8-273FE7CB2990}|ToDoListe-SWE\\ToDoListe-SWE.csproj|c:\\users\\stud\\swe_projekt_getcode\\projektplanung\\todoliste-swe\\todoliste-swe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB90F9C5-E03E-454C-B4C8-273FE7CB2990}|ToDoListe-SWE\\ToDoListe-SWE.csproj|solutionrelative:todoliste-swe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 127,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TaskManager.cs",
               "DocumentMoniker": "C:\\Users\\stud\\SWE_Projekt_GetCode\\Projektplanung\\ToDoListe-SWE\\ToDoListe-SWE\\TaskManager.cs",
               "RelativeDocumentMoniker": "ToDoListe-SWE\\TaskManager.cs",
               "ToolTip": "C:\\Users\\stud\\SWE_Projekt_GetCode\\Projektplanung\\ToDoListe-SWE\\ToDoListe-SWE\\TaskManager.cs",
               "RelativeToolTip": "ToDoListe-SWE\\TaskManager.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAgwAsAAAAAAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwD8AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T10:15:13.281Z",
               "IsPinned": true,
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\stud\\SWE_Projekt_GetCode\\Projektplanung\\ToDoListe-SWE\\ToDoListe-SWE\\Task.cs",
               "RelativeDocumentMoniker": "ToDoListe-SWE\\Task.cs",
               "ToolTip": "C:\\Users\\stud\\SWE_Projekt_GetCode\\Projektplanung\\ToDoListe-SWE\\ToDoListe-SWE\\Task.cs",
               "RelativeToolTip": "ToDoListe-SWE\\Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T10:14:59.568Z",
               "IsPinned": true,
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\stud\\SWE_Projekt_GetCode\\Projektplanung\\ToDoListe-SWE\\ToDoListe-SWE\\Program.cs",
               "RelativeDocumentMoniker": "ToDoListe-SWE\\Program.cs",

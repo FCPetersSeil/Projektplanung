@@ -13,24 +13,34 @@ namespace ToDoListe_SWE
         String description;
         bool completed = false;
 
-        // Erstellt ein task objekt
+        /// <summary>
+        /// Erstellt ein task objekt
+        /// </summary>
+        /// <param name="x"></param>
         public Task(String x) { 
             Description = x;
             i++;
             ID = i;
         }
 
-        // getter/setter für unser id
+        /// <summary>
+        /// getter/setter für unser id
+        /// </summary>
         public int ID { 
             get { return id; } set { id = value; }
         }
 
-        // getter/setter für unser description
+
+        /// <summary>
+        /// getter/setter für unser description
+        /// </summary>
         public String Description { 
             get { return description; } set {  description = value; }
         }
 
-        // getter/setter für unser completed
+        /// <summary>
+        /// getter/setter für unser completed
+        /// </summary>
         public bool Completed { 
             get { return completed; } set {  completed = value; }
         }
