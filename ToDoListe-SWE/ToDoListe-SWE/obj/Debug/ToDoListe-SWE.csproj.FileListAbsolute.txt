@@ -5,3 +5,10 @@ F:\C#\ToDoListe-SWE\ToDoListe-SWE\bin\Debug\ToDoListe-SWE.exe
 F:\C#\ToDoListe-SWE\ToDoListe-SWE\bin\Debug\ToDoListe-SWE.pdb
 F:\C#\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.exe
 F:\C#\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.pdb
+C:\Users\stud\SWE_Projekt_GetCode\Projektplanung\ToDoListe-SWE\ToDoListe-SWE\bin\Debug\ToDoListe-SWE.exe.config
+C:\Users\stud\SWE_Projekt_GetCode\Projektplanung\ToDoListe-SWE\ToDoListe-SWE\bin\Debug\ToDoListe-SWE.exe
+C:\Users\stud\SWE_Projekt_GetCode\Projektplanung\ToDoListe-SWE\ToDoListe-SWE\bin\Debug\ToDoListe-SWE.pdb
+C:\Users\stud\SWE_Projekt_GetCode\Projektplanung\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.csproj.AssemblyReference.cache
+C:\Users\stud\SWE_Projekt_GetCode\Projektplanung\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.csproj.CoreCompileInputs.cache
+C:\Users\stud\SWE_Projekt_GetCode\Projektplanung\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.exe
+C:\Users\stud\SWE_Projekt_GetCode\Projektplanung\ToDoListe-SWE\ToDoListe-SWE\obj\Debug\ToDoListe-SWE.pdb
